@@ -4,7 +4,7 @@
 <table>
  <thead>
   <tr style="color:#3b308f; font-family: Algerian; font-size: 22px;">
-   <th>#</th>
+   <th style="min-width:100px">#</th>
    <th>Question</th>
    <th>Solution</th>
    <th>Rating</th>
@@ -19,7 +19,34 @@
     <td style="text-align:center;">1100</td>
     <td style="text-align:center;">DP || Greedy || Sortings</td>
   </tr>
-  
+  <tr>
+    <td>1838-B</td>
+    <td style="text-align:center;"><a href="https://codeforces.com/contest/1838/problem/B">Minimize Permutation Subarrays</a></td>
+    <td style="text-align:center;"><a href="./Codes/1838B.cpp">C++</a></td>
+    <td style="text-align:center;">1100</td>
+    <td style="text-align:center;">Constructive Algorithms || Math</td>
+  </tr>
+  <tr>
+    <td>1986-C</td>
+    <td style="text-align:center;"><a href="https://codeforces.com/contest/1986/problem/C">Update Queries</a></td>
+    <td style="text-align:center;"><a href="./Codes/1986C.cpp">C++</a></td>
+    <td style="text-align:center;">-</td>
+    <td style="text-align:center;">Data Structures || Greedy || Sortings</td>
+  </tr>
+  <tr>
+    <td>1966-B</td>
+    <td style="text-align:center;"><a href="https://codeforces.com/contest/1966/problem/B">Rectangle Filling</a></td>
+    <td style="text-align:center;"><a href="./Codes/1966B.cpp">C++</a></td>
+    <td style="text-align:center;">1100</td>
+    <td style="text-align:center;">Constructive Algorithms || Implementation</td>
+  </tr>
+  <tr>
+    <td>1971-D</td>
+    <td style="text-align:center;"><a href="https://codeforces.com/contest/1971/problem/D">Binary Cut</a></td>
+    <td style="text-align:center;"><a href="./Codes/1971D.cpp">C++</a></td>
+    <td style="text-align:center;">1100</td>
+    <td style="text-align:center;">DP || Greedy || Implementation || Sortings || Strings</td>
+  </tr>
 </tbody>
 </table>
 
