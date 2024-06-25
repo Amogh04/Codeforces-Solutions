@@ -27,13 +27,6 @@
     <td style="text-align:center;">Constructive Algorithms || Math</td>
   </tr>
   <tr>
-    <td>1986-C</td>
-    <td style="text-align:center;"><a href="https://codeforces.com/contest/1986/problem/C">Update Queries</a></td>
-    <td style="text-align:center;"><a href="./Codes/1986C.cpp">C++</a></td>
-    <td style="text-align:center;">-</td>
-    <td style="text-align:center;">Data Structures || Greedy || Sortings</td>
-  </tr>
-  <tr>
     <td>1966-B</td>
     <td style="text-align:center;"><a href="https://codeforces.com/contest/1966/problem/B">Rectangle Filling</a></td>
     <td style="text-align:center;"><a href="./Codes/1966B.cpp">C++</a></td>
@@ -46,6 +39,34 @@
     <td style="text-align:center;"><a href="./Codes/1971D.cpp">C++</a></td>
     <td style="text-align:center;">1100</td>
     <td style="text-align:center;">DP || Greedy || Implementation || Sortings || Strings</td>
+  </tr>
+  <tr>
+    <td>1985-C</td>
+    <td style="text-align:center;"><a href="https://codeforces.com/contest/1985/problem/C">Good Prefixes</a></td>
+    <td style="text-align:center;"><a href="./Codes/1985C.cpp">C++</a></td>
+    <td style="text-align:center;">1000</td>
+    <td style="text-align:center;">Greedy</td>
+  </tr>
+  <tr>
+    <td>1985-D</td>
+    <td style="text-align:center;"><a href="https://codeforces.com/contest/1985/problem/D">Manhattan Circle</a></td>
+    <td style="text-align:center;"><a href="./Codes/1985D.cpp">C++</a></td>
+    <td style="text-align:center;">900</td>
+    <td style="text-align:center;">Implementation || Math</td>
+  </tr>
+  <tr>
+    <td>1986-C</td>
+    <td style="text-align:center;"><a href="https://codeforces.com/contest/1986/problem/C">Update Queries</a></td>
+    <td style="text-align:center;"><a href="./Codes/1986C.cpp">C++</a></td>
+    <td style="text-align:center;">-</td>
+    <td style="text-align:center;">Data Structures || Greedy || Sortings</td>
+  </tr>
+  <tr>
+    <td>1986-D</td>
+    <td style="text-align:center;"><a href="https://codeforces.com/contest/1986/problem/D">Mathematical Problem</a></td>
+    <td style="text-align:center;"><a href="./Codes/1986D.cpp">C++</a></td>
+    <td style="text-align:center;">-</td>
+    <td style="text-align:center;">Brute Force || DP || Greedy || Implementation || Math || Two Pointers</td>
   </tr>
 </tbody>
 </table>
