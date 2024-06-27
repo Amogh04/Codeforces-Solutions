@@ -58,14 +58,14 @@
     <td>1986-C</td>
     <td style="text-align:center;"><a href="https://codeforces.com/contest/1986/problem/C">Update Queries</a></td>
     <td style="text-align:center;"><a href="./Codes/1986C.cpp">C++</a></td>
-    <td style="text-align:center;">-</td>
+    <td style="text-align:center;">1100</td>
     <td style="text-align:center;">Data Structures || Greedy || Sortings</td>
   </tr>
   <tr>
     <td>1986-D</td>
     <td style="text-align:center;"><a href="https://codeforces.com/contest/1986/problem/D">Mathematical Problem</a></td>
     <td style="text-align:center;"><a href="./Codes/1986D.cpp">C++</a></td>
-    <td style="text-align:center;">-</td>
+    <td style="text-align:center;">1400</td>
     <td style="text-align:center;">Brute Force || DP || Greedy || Implementation || Math || Two Pointers</td>
   </tr>
 </tbody>
